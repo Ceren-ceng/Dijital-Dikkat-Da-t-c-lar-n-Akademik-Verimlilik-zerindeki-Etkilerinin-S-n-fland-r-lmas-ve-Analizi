@@ -93,7 +93,7 @@ Bu projede Python tabanlı veri bilimi ve makine öğrenmesi araçları kullanı
 - **Seaborn** (kullanıldıysa)
 - **Scikit-learn**
 
-> Not: Eğer notebook içinde farklı kütüphaneler kullanıldıysa bu liste proje içeriğine göre güncellenebilir.
+
 
 ---
 
